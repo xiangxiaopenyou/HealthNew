@@ -1,20 +1,22 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "266AD60882D3F6D4B44E1E6E0E73251B3E7B2AB9",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "94DC2F895BF59799E25A622D5037A4E5E3A71F32",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "266AD60882D3F6D4B44E1E6E0E73251B3E7B2AB9" : 0,
+    "9524DD54D6AA9600679250A808229C667E5411D3" : 0,
     "2CDC4B2C06DD3496C645FB75923A659AF600BEC5" : 0,
+    "94DC2F895BF59799E25A622D5037A4E5E3A71F32" : 0,
     "43E6D2C3121E04690A641B789018D4390C4B5DC0" : 0,
-    "9524DD54D6AA9600679250A808229C667E5411D3" : 0
+    "266AD60882D3F6D4B44E1E6E0E73251B3E7B2AB9" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6236A838-CA0F-4312-AB14-BC3467268D56",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "266AD60882D3F6D4B44E1E6E0E73251B3E7B2AB9" : "%E5%81%A5%E8%BA%AB%E5%9D%8A%E6%96%B0%E7%89%88\/",
+    "9524DD54D6AA9600679250A808229C667E5411D3" : "%E5%81%A5%E8%BA%AB%E5%9D%8A3.3\/",
     "2CDC4B2C06DD3496C645FB75923A659AF600BEC5" : "Gym3.0",
+    "94DC2F895BF59799E25A622D5037A4E5E3A71F32" : "Health\/",
     "43E6D2C3121E04690A641B789018D4390C4B5DC0" : "%E5%81%A5%E8%BA%AB%E5%9D%8A3.2\/",
-    "9524DD54D6AA9600679250A808229C667E5411D3" : "%E5%81%A5%E8%BA%AB%E5%9D%8A3.3\/"
+    "266AD60882D3F6D4B44E1E6E0E73251B3E7B2AB9" : "%E5%81%A5%E8%BA%AB%E5%9D%8A%E6%96%B0%E7%89%88\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "fitplus",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -34,6 +36,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/wx.gatao.cn\/ios\/health.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43E6D2C3121E04690A641B789018D4390C4B5DC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xiangxiaopenyou\/HealthNew.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "94DC2F895BF59799E25A622D5037A4E5E3A71F32"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/wx.gatao.cn\/ios\/realtech.git",

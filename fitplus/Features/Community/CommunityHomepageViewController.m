@@ -276,7 +276,7 @@
        _messageLabel=[[UILabel alloc]init];
     }
     _messageLabel.hidden=YES;
-    if (!_messageLabel.text.length==0) {
+    if (_messageLabel.text.length != 0) {
         _messageLabel.hidden=NO;
     }
     _messageLabel.layer.masksToBounds=YES;

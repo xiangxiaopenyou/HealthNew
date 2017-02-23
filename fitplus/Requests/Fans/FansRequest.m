@@ -22,7 +22,7 @@
         if (_frendid && ![_frendid isEqual:@""]) {
             [param setObject:_frendid forKey:@"frendid"];
         }
-        if (_limit && !_limit == 0) {
+        if (_limit && !(_limit == 0)) {
             [param setObject:@(_limit) forKey:@"limit"];
         }
         [[RequestManager sharedInstance] POST:@"Own/fansList" parameters:[self buildParam:param] success:^(NSURLSessionDataTask *task, id responseObject) {
